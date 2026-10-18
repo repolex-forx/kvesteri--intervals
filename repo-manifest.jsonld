@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/kvesteri/intervals/commit/97445fe2d57a98969c0fa8188fae585cc529522a",
       "git:hexsha": "97445fe2d57a98969c0fa8188fae585cc529522a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/kvesteri/intervals/commit/9bf15708cecc22410c508223fab9e9a2d2c7972c",
