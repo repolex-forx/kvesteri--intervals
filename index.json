@@ -3,6 +3,11 @@
   "repo": "intervals",
   "versions": [
     {
+      "commit": "60d6f00cbbd11e30dc1a0f67e57321638676a1f3",
+      "tag": "0.9.2",
+      "parsed_at": "2026-11-21T23:20:27.558349+00:00"
+    },
+    {
       "commit": "97445fe2d57a98969c0fa8188fae585cc529522a",
       "tag": "",
       "parsed_at": "2026-10-18T08:44:37.497686+00:00"
